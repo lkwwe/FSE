@@ -1,7 +1,7 @@
-x1 = int(input())
-y1 = int(input())
-x2 = int(input())
-y2 = int(input())
+x1 = float(input())
+y1 = float(input())
+x2 = float(input())
+y2 = float(input())
 
 if (x1>0 and y1>0):
     res1 = 'I'
