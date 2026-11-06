@@ -25,4 +25,3 @@ if res1==res2:
     print ('Yes,', res1)
 else: 
     print ('No')
-    
