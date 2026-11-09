@@ -1,7 +1,7 @@
 import random
 import time
 
-N = int(input('Введите количество приверов:'))
+N = int(input('Введите количество примеров:'))
 all_time = 0
 correct_answer = 0
 
